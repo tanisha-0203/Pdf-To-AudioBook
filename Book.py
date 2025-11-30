@@ -1,12 +1,3 @@
-# import pyttsx3
-# import PyPDF2
-# book=open('report.pdf','rb')
-# pdfReader=PyPDF2.PdfReader(book)
-# pages=pdfReader.numPages
-# print(pages)
-# speaker=pyttsx3.init()
-# speaker.say('Look Mama i can talk')
-# speaker.runAndWait()
 
 import pyttsx3
 from PyPDF2 import PdfReader
